@@ -2,7 +2,6 @@ from pyrogram import idle
 
 import votlx
 from mody.Keyboards import start_key
-from mody.Redis import db
 from mody.get_info import sudo_info, get_bot
 from mody.mod import Bot, sudo_client
 
