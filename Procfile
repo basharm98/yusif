@@ -1,1 +1,1 @@
-bot: python -m ze-telethon-cl
+worker: python3 main.py
